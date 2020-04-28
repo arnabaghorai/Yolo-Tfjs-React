@@ -8,9 +8,4 @@
 - Tiny YOLO-v2
 - Tiny YOLO-v3
 
-### Get Started
 
-```
-npm install
-npm start
-```
