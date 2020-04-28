@@ -1,0 +1,29 @@
+h1, p {
+    font-family: Lato;
+  }
+  
+#webcam-wrapper {
+    background-color: black;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+  }
+
+.container{
+  margin: 0 auto;
+  display: flex;
+    justify-content: center;
+    overflow: hidden;
+
+
+}
+
+
+  rect {
+    position: absolute;
+    border: 2px dashed;
+  }
