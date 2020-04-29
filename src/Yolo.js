@@ -13,6 +13,7 @@ export default class Yolo extends Component {
     
         videoRef = React.createRef();
         canvasRef = React.createRef();
+        mystream = null
         state={
             loading:true,
             model_loaded:true,
@@ -90,6 +91,8 @@ export default class Yolo extends Component {
             window.stream = stream;
             // pass the stream to the videoRef
             this.videoRef.current.srcObject = stream;
+
+            this.mystream = stream;
   
             return new Promise(resolve => {
               this.videoRef.current.onloadedmetadata = () => {
@@ -124,6 +127,12 @@ export default class Yolo extends Component {
             console.error(error);
           });
       }
+    }
+
+    componentWillUnmount() {
+      this.mystream.getTracks().forEach(track => track.stop());
+      window.stream.getTracks().forEach(track => track.stop());
+
     }
 
     async load(mode){
