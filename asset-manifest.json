@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/arnabaghorai.github.io/Yolo-Tfjs-React/static/css/main.ece7d8a0.chunk.css",
-    "main.js": "/arnabaghorai.github.io/Yolo-Tfjs-React/static/js/main.647db1d4.chunk.js",
-    "main.js.map": "/arnabaghorai.github.io/Yolo-Tfjs-React/static/js/main.647db1d4.chunk.js.map",
-    "runtime-main.js": "/arnabaghorai.github.io/Yolo-Tfjs-React/static/js/runtime-main.315d1870.js",
-    "runtime-main.js.map": "/arnabaghorai.github.io/Yolo-Tfjs-React/static/js/runtime-main.315d1870.js.map",
-    "static/css/2.69121389.chunk.css": "/arnabaghorai.github.io/Yolo-Tfjs-React/static/css/2.69121389.chunk.css",
-    "static/js/2.7b3b3149.chunk.js": "/arnabaghorai.github.io/Yolo-Tfjs-React/static/js/2.7b3b3149.chunk.js",
-    "static/js/2.7b3b3149.chunk.js.map": "/arnabaghorai.github.io/Yolo-Tfjs-React/static/js/2.7b3b3149.chunk.js.map",
-    "index.html": "/arnabaghorai.github.io/Yolo-Tfjs-React/index.html",
-    "precache-manifest.4c35a0088f5bd75ec3cb2d43c36a0287.js": "/arnabaghorai.github.io/Yolo-Tfjs-React/precache-manifest.4c35a0088f5bd75ec3cb2d43c36a0287.js",
-    "service-worker.js": "/arnabaghorai.github.io/Yolo-Tfjs-React/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/arnabaghorai.github.io/Yolo-Tfjs-React/static/css/2.69121389.chunk.css.map",
-    "static/css/main.ece7d8a0.chunk.css.map": "/arnabaghorai.github.io/Yolo-Tfjs-React/static/css/main.ece7d8a0.chunk.css.map",
-    "static/js/2.7b3b3149.chunk.js.LICENSE.txt": "/arnabaghorai.github.io/Yolo-Tfjs-React/static/js/2.7b3b3149.chunk.js.LICENSE.txt"
+    "main.css": "/Yolo-Tfjs-React/static/css/main.ece7d8a0.chunk.css",
+    "main.js": "/Yolo-Tfjs-React/static/js/main.079b1c52.chunk.js",
+    "main.js.map": "/Yolo-Tfjs-React/static/js/main.079b1c52.chunk.js.map",
+    "runtime-main.js": "/Yolo-Tfjs-React/static/js/runtime-main.0c0350ae.js",
+    "runtime-main.js.map": "/Yolo-Tfjs-React/static/js/runtime-main.0c0350ae.js.map",
+    "static/css/2.69121389.chunk.css": "/Yolo-Tfjs-React/static/css/2.69121389.chunk.css",
+    "static/js/2.7b3b3149.chunk.js": "/Yolo-Tfjs-React/static/js/2.7b3b3149.chunk.js",
+    "static/js/2.7b3b3149.chunk.js.map": "/Yolo-Tfjs-React/static/js/2.7b3b3149.chunk.js.map",
+    "index.html": "/Yolo-Tfjs-React/index.html",
+    "precache-manifest.2664c51af107a85f58bea148a66a0426.js": "/Yolo-Tfjs-React/precache-manifest.2664c51af107a85f58bea148a66a0426.js",
+    "service-worker.js": "/Yolo-Tfjs-React/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/Yolo-Tfjs-React/static/css/2.69121389.chunk.css.map",
+    "static/css/main.ece7d8a0.chunk.css.map": "/Yolo-Tfjs-React/static/css/main.ece7d8a0.chunk.css.map",
+    "static/js/2.7b3b3149.chunk.js.LICENSE.txt": "/Yolo-Tfjs-React/static/js/2.7b3b3149.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.315d1870.js",
+    "static/js/runtime-main.0c0350ae.js",
     "static/css/2.69121389.chunk.css",
     "static/js/2.7b3b3149.chunk.js",
     "static/css/main.ece7d8a0.chunk.css",
-    "static/js/main.647db1d4.chunk.js"
+    "static/js/main.079b1c52.chunk.js"
   ]
 }
