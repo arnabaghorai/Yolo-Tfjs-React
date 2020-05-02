@@ -130,8 +130,15 @@ export default class Yolo extends Component {
     }
 
     componentWillUnmount() {
-      this.mystream.getTracks().forEach(track => track.stop());
-      window.stream.getTracks().forEach(track => track.stop());
+      if(this.mystream){
+        this.mystream.getTracks().forEach(track => track.stop());
+      }
+      
+      if(window.stream){
+        window.stream.getTracks().forEach(track => track.stop());
+
+      }
+     
 
     }
 
